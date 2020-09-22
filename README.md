@@ -1,5 +1,7 @@
 # About
 
+[![Downloads](https://pepy.tech/badge/faust-pydantic-validate)](https://pepy.tech/project/faust-pydantic-validate) [![Downloads](https://pepy.tech/badge/faust-pydantic-validate/month)](https://pepy.tech/project/faust-pydantic-validate/month)  [![Downloads](https://pepy.tech/badge/faust-pydantic-validate/week)](https://pepy.tech/project/faust-pydantic-validate/week)
+
 faust-pydantic-validate is a small decorator to validate post data in webviews
 
 ### Installation
