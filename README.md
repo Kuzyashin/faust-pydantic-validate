@@ -1,6 +1,6 @@
-# Dillinger
+# About
 
-faust-pydantic-validate is a small decorator to validate post data.
+faust-pydantic-validate is a small decorator to validate post data in webviews
 
 ### Installation
 
